@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.tunaranch.commons</groupId>
+  <artifactId>commons-parent</artifactId>
+  <packaging>pom</packaging>
+  <version>1-SNAPSHOT</version>
+  <name>Tunaranch commons parent</name>
+  <url>http://wiki.github.com/tunaranch/commons/</url>
+  <inceptionYear>2010</inceptionYear>
+  <scm>
+  	<connection>scm:git:git://github.com/tunaranch/Tunaranch-Commons.git</connection>
+  	<developerConnection>scm:git:git//github.com:tunaranch/Tunaranch-Commons.git</developerConnection>
+  </scm>
+</project>
