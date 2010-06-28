@@ -9,7 +9,8 @@
   <url>http://wiki.github.com/tunaranch/commons/</url>
   <inceptionYear>2010</inceptionYear>
   <scm>
-  	<connection>scm:git:git://github.com/tunaranch/Tunaranch-Commons.git</connection>
-  	<developerConnection>scm:git:git//github.com:tunaranch/Tunaranch-Commons.git</developerConnection>
+  	<url>scm:git:git@github.com:</url>
+  	<connection>scm:git:git@github.com:/tunaranch/Tunaranch-Commons.git</connection>
+  	<developerConnection>scm:git:git@github.com::tunaranch/Tunaranch-Commons.git</developerConnection>
   </scm>
 </project>
